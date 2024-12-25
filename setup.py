@@ -9,9 +9,9 @@ setuptools.setup(
     author="valerka",
     author_email="youremail@example.com",
     description="Простой калькулятор на Python",
-    long_description="Здесь должно было быть длинное описание, но мне лень его писать :(",
+    long_description="бу бу бу бу",
     long_description_content_type="text/markdown",
-    url="https://github.com/guguker/private_uni",
+    url="https://github.com/guguker/practice-4",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
